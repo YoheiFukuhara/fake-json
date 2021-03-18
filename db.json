@@ -2,7 +2,7 @@
     "odata.metadata": "https://services.odata.org/V3/(S(uf1rnvp35sc4yedyyhbqtzuy))/OData/OData.svc/$metadata#Products",
     "value": [
         {
-            "ID": 0,
+            "ID": "milk",
             "Name": "Bread",
             "Description": "Whole grain bread",
             "ReleaseDate": "1992-01-01T00:00:00",
